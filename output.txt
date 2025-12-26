@@ -1,0 +1,2 @@
+Hello copy me 
+Nombre total de lignes copiées : 1
